@@ -1,0 +1,9 @@
+Personal Portfolio Website
+
+Host it on GitHub Pages.
+
+Use Git to version HTML/CSS/JS changes.
+
+Show branching for feature additions (e.g., dark mode, new section).
+
+Highlight commit messages and pull requests. did not understand
